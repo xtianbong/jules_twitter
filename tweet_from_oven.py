@@ -8,7 +8,7 @@ access_token=285201258-YamUyr4gxM19xKx6fEmEN2ESmqaNphgqbVLiLxza,
 access_token_secret=3FYUtkWN7oAWe71RUrnq1LVTsnjEYG18UEh6yR6roXb7s
 )
 
-user = "@YOUR_USERNAME"
+user = "@julesdidit"
 
 auth = tweepy.OAuthHandler(keys[uZw5RK8vQV0dincJi8baqNTNw], keys[RyG0pF57mo1OvZNU14z5XhJanwBhPol1mHVUQuHlH8FH330e4h])
 auth.set_access_token(keys[285201258-YamUyr4gxM19xKx6fEmEN2ESmqaNphgqbVLiLxza], keys[3FYUtkWN7oAWe71RUrnq1LVTsnjEYG18UEh6yR6roXb7s])
